@@ -51,3 +51,5 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vuex/
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+all Rights to: Vuex Team
